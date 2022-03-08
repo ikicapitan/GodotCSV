@@ -1,0 +1,25 @@
+id,name,description,type
+1,heal potion,restores hp +100,consumable
+2,super heal potion,restores hp +500,consumable
+3,sword,,weapon
+4,wood,,resource
+5,hammer,,weapon
+6,crafting table,,craft
+7,,,
+8,,,
+9,,,
+10,,,
+11,,,
+12,,,
+13,,,
+14,,,
+15,,,
+16,,,
+17,,,
+18,,,
+19,,,
+20,,,
+21,,,
+22,,,
+23,,,
+24,,,
